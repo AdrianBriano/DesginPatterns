@@ -1,7 +1,7 @@
 package com.acc.duck;
 
-import com.acc.duck.fly.FlyNoway;
-import com.acc.duck.quack.Squeak;
+import com.acc.duck.behavior.fly.FlyNoway;
+import com.acc.duck.behavior.quack.Squeak;
 
 public class MiniDuckSimulator {
 

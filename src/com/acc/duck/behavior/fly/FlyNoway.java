@@ -1,4 +1,4 @@
-package com.acc.duck.fly;
+package com.acc.duck.behavior.fly;
 
 public class FlyNoway implements FlyBehavior {
 
