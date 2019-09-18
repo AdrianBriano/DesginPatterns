@@ -1,7 +1,7 @@
 package com.acc.duck;
 
 import com.acc.duck.fly.FlyNoway;
-import com.acc.quack.Quack;
+import com.acc.duck.quack.Quack;
 
 public class ModelDuck extends Duck {
 	

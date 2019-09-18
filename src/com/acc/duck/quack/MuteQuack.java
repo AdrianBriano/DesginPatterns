@@ -1,4 +1,4 @@
-package com.acc.quack;
+package com.acc.duck.quack;
 
 public class MuteQuack implements QuackBehavior {
 

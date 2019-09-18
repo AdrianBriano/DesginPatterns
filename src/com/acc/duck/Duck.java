@@ -1,7 +1,7 @@
 package com.acc.duck;
 
 import com.acc.duck.fly.FlyBehavior;
-import com.acc.quack.QuackBehavior;
+import com.acc.duck.quack.QuackBehavior;
 
 public abstract class Duck {
 	
